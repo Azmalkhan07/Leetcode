@@ -13,10 +13,19 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0009-palindrome-number) |
+| [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Azmalkhan07/Leetcode/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Azmalkhan07/Leetcode/tree/master/0058-length-of-last-word) |
 | [1108-defanging-an-ip-address](https://github.com/Azmalkhan07/Leetcode/tree/master/1108-defanging-an-ip-address) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
