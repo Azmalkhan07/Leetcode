@@ -9,10 +9,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Azmalkhan07/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Azmalkhan07/Leetcode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Azmalkhan07/Leetcode/tree/master/0013-roman-to-integer) |
 | [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Azmalkhan07/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -20,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Azmalkhan07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Azmalkhan07/Leetcode/tree/master/0058-length-of-last-word) |
 | [0551-student-attendance-record-i](https://github.com/Azmalkhan07/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [1108-defanging-an-ip-address](https://github.com/Azmalkhan07/Leetcode/tree/master/1108-defanging-an-ip-address) |
