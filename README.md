@@ -21,6 +21,7 @@
 | [0066-plus-one](https://github.com/Azmalkhan07/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Azmalkhan07/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0509-fibonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Azmalkhan07/Leetcode/tree/master/2469-convert-the-temperature) |
