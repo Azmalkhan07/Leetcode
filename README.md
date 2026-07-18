@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0009-palindrome-number) |
+| [2469-convert-the-temperature](https://github.com/Azmalkhan07/Leetcode/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
 | ------- |
