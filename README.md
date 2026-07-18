@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Azmalkhan07/Leetcode/tree/master/0058-length-of-last-word) |
+| [0551-student-attendance-record-i](https://github.com/Azmalkhan07/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [1108-defanging-an-ip-address](https://github.com/Azmalkhan07/Leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Two Pointers
 |  |
