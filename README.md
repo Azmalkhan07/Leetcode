@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Azmalkhan07/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Azmalkhan07/Leetcode/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/Azmalkhan07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Azmalkhan07/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
