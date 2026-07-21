@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Azmalkhan07/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Azmalkhan07/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Azmalkhan07/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Azmalkhan07/Leetcode/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Azmalkhan07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Azmalkhan07/Leetcode/tree/master/0027-remove-element) |
 | [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
