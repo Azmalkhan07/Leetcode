@@ -70,6 +70,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Azmalkhan07/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Azmalkhan07/Leetcode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Azmalkhan07/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
