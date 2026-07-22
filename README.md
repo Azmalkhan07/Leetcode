@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Azmalkhan07/Leetcode/tree/master/0027-remove-element) |
+| [0876-middle-of-the-linked-list](https://github.com/Azmalkhan07/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -100,4 +101,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Azmalkhan07/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Azmalkhan07/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
