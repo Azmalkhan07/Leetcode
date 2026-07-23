@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Azmalkhan07/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Azmalkhan07/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Azmalkhan07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Azmalkhan07/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Azmalkhan07/Leetcode/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Azmalkhan07/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Azmalkhan07/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Azmalkhan07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Azmalkhan07/Leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Azmalkhan07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Azmalkhan07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
