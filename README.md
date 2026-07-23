@@ -46,6 +46,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Azmalkhan07/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Azmalkhan07/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Azmalkhan07/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Azmalkhan07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Azmalkhan07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/Azmalkhan07/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [1108-defanging-an-ip-address](https://github.com/Azmalkhan07/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -56,6 +57,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Azmalkhan07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Azmalkhan07/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Azmalkhan07/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Azmalkhan07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Azmalkhan07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Azmalkhan07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Azmalkhan07/Leetcode/tree/master/0234-palindrome-linked-list) |
