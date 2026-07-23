@@ -29,6 +29,7 @@
 | [0066-plus-one](https://github.com/Azmalkhan07/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Azmalkhan07/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Azmalkhan07/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Azmalkhan07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0509-fibonacci-number) |
@@ -82,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Azmalkhan07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -94,6 +96,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Azmalkhan07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
