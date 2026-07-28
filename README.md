@@ -33,6 +33,7 @@
 | [0069-sqrtx](https://github.com/Azmalkhan07/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Azmalkhan07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0509-fibonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -69,6 +70,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Azmalkhan07/Leetcode/tree/master/0067-add-binary) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
