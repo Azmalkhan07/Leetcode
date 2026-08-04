@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/Azmalkhan07/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Azmalkhan07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0292-nim-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Azmalkhan07/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -100,6 +102,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Azmalkhan07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,4 +182,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Azmalkhan07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
