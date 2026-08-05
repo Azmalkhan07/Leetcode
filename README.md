@@ -37,6 +37,7 @@
 | [0067-add-binary](https://github.com/Azmalkhan07/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Azmalkhan07/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Azmalkhan07/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Azmalkhan07/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0507-perfect-number) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Azmalkhan07/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Azmalkhan07/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Azmalkhan07/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Azmalkhan07/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Azmalkhan07/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Azmalkhan07/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Azmalkhan07/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
