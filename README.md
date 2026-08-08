@@ -62,6 +62,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Azmalkhan07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/Azmalkhan07/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [1108-defanging-an-ip-address](https://github.com/Azmalkhan07/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [3110-score-of-a-string](https://github.com/Azmalkhan07/Leetcode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
