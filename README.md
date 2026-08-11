@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/Azmalkhan07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0877-stone-game) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Azmalkhan07/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Azmalkhan07/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Azmalkhan07/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Azmalkhan07/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
