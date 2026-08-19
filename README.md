@@ -46,6 +46,7 @@
 | [0507-perfect-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Azmalkhan07/Leetcode/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Azmalkhan07/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Azmalkhan07/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Azmalkhan07/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -105,6 +106,7 @@
 | [0231-power-of-two](https://github.com/Azmalkhan07/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Azmalkhan07/Leetcode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/Azmalkhan07/Leetcode/tree/master/0461-hamming-distance) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Azmalkhan07/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
