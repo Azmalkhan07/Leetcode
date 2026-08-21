@@ -197,15 +197,18 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Azmalkhan07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Azmalkhan07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/Azmalkhan07/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Azmalkhan07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Azmalkhan07/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Azmalkhan07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Azmalkhan07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/Azmalkhan07/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Minimax
 |  |
 | ------- |
@@ -224,4 +227,8 @@
 | [0258-add-digits](https://github.com/Azmalkhan07/Leetcode/tree/master/0258-add-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Azmalkhan07/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Azmalkhan07/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Azmalkhan07/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
